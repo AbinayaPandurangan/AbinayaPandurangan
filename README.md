@@ -23,6 +23,6 @@ An online Reservation app to book Tables for a restaurant, based on its availabi
 ### To-do List
 To-Do List app that allows us to add Task Lists and Tasks, whose status (completed or not) can be set as required. The app is developed using React.
 
-### <a href="https://github.com/AbinayaPandurangan/react-hands-on-project-spendmoneyapp" target="_blank">Spending App</a>
+<a href="https://github.com/AbinayaPandurangan/react-hands-on-project-spendmoneyapp" target="_blank">Spending App</a>
 
 A mini-app where one can add money to wallet and make purchases based on the wallet money. The app developed using React and Bootstrap.

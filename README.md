@@ -7,7 +7,7 @@ I am **AbinayaPandurangan/AbinayaPandurangan**, a passionate designer and develo
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love to cook 😄
 
-## PROJECTS
+## PROJECTS - Learning Experience
 ### <a href="https://github.com/AbinayaPandurangan/end2end-ecommerse-site" target="_blank">E-Commerce Web App</a> 
 A Full-Stack Online shopping Web App which allows users to Sort, Search, Filter for products, add them to cart, and perform CRUD operation, then, proceed to payment after authentication. The app is developed using Material UI, React Typescript, Redux, .Net, C#, Web API, Entity Framework, SQL Server.
 
